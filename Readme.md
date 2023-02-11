@@ -20,7 +20,7 @@ return <RichContent
 
 Demo: [vextra.vercel.app/portfolio](https://vextra.vercel.app/portfolio)
 
-Documentation: [vextra.vercel.app/portfolio](https://vextra.vercel.app/portfolio)
+Documentation: [vextra.vercel.app/portfolio/rich-content-handbook](https://vextra.vercel.app/portfolio/rich-content-handbook)
 
 <br/>
 
