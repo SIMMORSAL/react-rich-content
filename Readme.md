@@ -18,9 +18,9 @@ return <RichContent
         />
 ```
 
-Demo: [vextra.vercel.app/portfolio](https://vextra.vercel.app/portfolio)
+Demo: <a href="https://vextra.vercel.app/portfolio" target="_blank">vextra.vercel.app/portfolio</a>
 
-Documentation: [vextra.vercel.app/portfolio/rich-content-handbook](https://vextra.vercel.app/portfolio/rich-content-handbook)
+Documentation: <a href="https://vextra.vercel.app/portfolio/rich-content-handbook" target="_blank">vextra.vercel.app/portfolio/rich-content-handbook</a>
 
 <br/>
 
