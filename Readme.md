@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/24822099/218313336-3919b2d6-ebfe-4e70-8bd1-40a7bb061b10.gif" />
+  <img src="https://user-images.githubusercontent.com/24822099/218315706-e7bf86eb-2805-477d-be4d-81eceab3b2b2.gif" />
 </p>
+
 <h1 align="center">React Rich Content</h1>
 
 ### Install:
