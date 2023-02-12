@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/24822099/218315706-e7bf86eb-2805-477d-be4d-81eceab3b2b2.gif" />
+  <img src="https://user-images.githubusercontent.com/24822099/218317261-1ca0bb46-8cbb-4bb2-b925-387166b42b82.gif" />
 </p>
+
 
 <h1 align="center">React Rich Content</h1>
 
