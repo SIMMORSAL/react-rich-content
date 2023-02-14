@@ -2,7 +2,7 @@
 import { useEffect, useRef, useState } from "react";
 import { css } from "@emotion/react";
 import ReactPlayer from "react-player";
-import { RichVideoModel } from "../models/rich-chunk/RichChunkModel";
+import { RichVideoModel } from "../models/RichChunkModel";
 
 interface Props {
   video: RichVideoModel;

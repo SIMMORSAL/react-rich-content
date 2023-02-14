@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 import { css } from "@emotion/react";
-import { RichTextModel } from "../models/rich-chunk/RichChunkModel";
+import { RichTextModel } from "../models/RichChunkModel";
 import MarkDown from "../Markdown/Markdown";
 import { isColor } from "../helpers/tools";
 

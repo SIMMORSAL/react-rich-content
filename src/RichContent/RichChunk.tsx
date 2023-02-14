@@ -1,5 +1,5 @@
 import { css } from "@emotion/react";
-import { RichChunkModel } from "../models/rich-chunk/RichChunkModel";
+import { RichChunkModel } from "../models/RichChunkModel";
 import RichText from "./RichText";
 import RichImage from "./RichImage";
 import RichVideo from "./RichVideo";
