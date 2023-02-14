@@ -1,6 +1,6 @@
 {
   "name": "react-rich-content",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "A frontend CMS solution that allows you to create beautiful, animated, and responsive pages easily and fast by supplying it a javascript object.",
   "type": "module",
   "module": "./dist/esm/index.js",

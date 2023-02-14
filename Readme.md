@@ -6,7 +6,7 @@
 
 Reach Rich Content is a front-end content management system (CMS) built with React, providing a easier interface for managing website pages, posts, and media. It is designed to be flexible and easily extensible, making it suitable for a variety of use cases.
 
-You may pair this with a backeng CMS solution for easiest and best experience.
+You may pair this with a backeng CMS solution for the easiest and best experience.
 
 ## Table of Contents
 
@@ -38,19 +38,17 @@ return <RichContent
 
 ### Data List
 
-Rich Content works by getting a list of Rich Chunk JS objects. Each Rich Chunk holds content such as text, image, or video, and information about how they are presented. Rich Content then reads the list and generates a jsx element for each item in the list.
+Rich Content works by getting a list of Rich Chunk javascript objects. Each Rich Chunk holds content such as text, image, or video, and information about how they are presented. Rich Content then reads the list and generates a jsx element for each item in the list.
 
 [Click Here](./src/models/RichChunkModel.ts) to see the complete Rich Chunk model.
 
-#### For an in-depth demonstration of Rich Content features, please visit this link:
+_**For an in-depth demonstration of Rich Content features, please visit this link:**_
 
-### <a style="color: #fff; background-color: #8e44bb; padding: 8px 8px 11px 8px; border-radius: 5px; margin-left: 12px" href="https://vextra.vercel.app/portfolio/rich-content-handbook" target="_blank">🌐 vextra.vercel.app/portfolio/rich-content-handbook</a>
+<a style="color: #fff; background-color: #8e44bb; padding: 8px 8px 11px 8px; border-radius: 5px; margin-left: 12px" href="https://vextra.vercel.app/portfolio/rich-content-handbook" target="_blank">**🌐 vextra.vercel.app/portfolio/rich-content-handbook**</a>
 
 ### Config Object
 
-_!this part is not implemented in the code yet!_
-
-Todo
+TODO _!this part is not implemented in the code yet!_
 
 ## Demo
 
