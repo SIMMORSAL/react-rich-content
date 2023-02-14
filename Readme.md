@@ -6,7 +6,7 @@
 
 Reach Rich Content is a front-end content management system (CMS) built with React, providing a easier interface for managing website pages, posts, and media. It is designed to be flexible and easily extensible, making it suitable for a variety of use cases.
 
-You may pair this with a backeng CMS solution for
+You may pair this with a backeng CMS solution for easiest and best experience.
 
 ## Table of Contents
 
